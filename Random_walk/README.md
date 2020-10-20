@@ -10,5 +10,5 @@ In this example, the directions that a random walker can take are limited to fou
 
 ***
 
-##### Note:
+#### Extra:
 Python implementation of Random Walk under above mentioned conditions (using Turtle module): [*link*](RdWalk2D.py) 

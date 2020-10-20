@@ -18,4 +18,4 @@ A collection of basic programs written in Fortran 90/95.
     - By Bisection method
     - By Secant method
 
-6. **Random Walk 2D** ([code](Random_walk/RW2D.f95))
+6. **Random Walk 2D** ([code](Random_walk/RW2D.f95)) ([plots](Random_walk))

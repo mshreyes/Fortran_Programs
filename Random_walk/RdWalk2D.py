@@ -1,12 +1,11 @@
-from tkinter import *
 import turtle
 import random
-
 
 s = turtle.getscreen()
 t = turtle.Turtle()
 s.bgcolor("black")
 
+#No. of steps
 n=100
 
 for i in range(n+1):
@@ -31,4 +30,3 @@ for i in range(n+1):
     
 turtle.mainloop() 
 
-s.getcanvas().postscript(file='random2.ps')

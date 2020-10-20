@@ -13,3 +13,5 @@ These includes:
 - By Newton-Raphson method
 - By Bisection method
 - By Secant method
+
+4. **Random Walk 2D**
